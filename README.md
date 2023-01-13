@@ -46,6 +46,6 @@ hotel address can be found under span tag with data-node_tt_id as attribute.
 
 After we have Web scraped the Booking.com website and gathere relevant information we have converted that data into a Pandas Dataframe. The sample output is attached below.
 
-![Output](https://github.com/Charishma-Bailapudi/Web_scraping_Hotel-Data_from_booking.com/blob/main/output.png)
+![Output](https://github.com/Charishma-Bailapudi/Web_scraping_Hotel-Data_from_booking.com/blob/main/output.png?raw=true)
 
 *The Full resultant CSV file is attached in the Repository*
